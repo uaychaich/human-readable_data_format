@@ -1,0 +1,28 @@
+---
+Bangkok: &bangkok
+  Province: Bangkok
+  Country: Thailand
+
+Chiangmai: &chiangmai
+  Province: Chiangmai
+  Country: Thailand
+
+Peoples:
+  - 1:
+    Name: "Uaychai Chotjaratwa"
+    Birthday: 2000-12-23
+    Salary: 20000
+    Address:
+      <<: *bangkok
+    Description: |
+      I am Uaychai
+      I am young
+  - 2:
+    Name: "Somchai Jaiharn"
+    Birthday: 2000-05-22
+    Salary: 25000
+    Address:
+      <<: *bangkok
+    Description: |
+      I am Somchai
+      I am old

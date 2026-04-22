@@ -1,0 +1,7 @@
+<Peoples>
+	<People firstname= "Uaychai" lastname= "Chotjaratwanich" />
+    <People firstname= "Somchai" lastname= "Jaiharn">
+	    <Address province= "Bangkok" country= "Thailand"/>
+	    <Address province= "Chiangmai" country= "Thailand"/>
+    </People>
+</Peoples>

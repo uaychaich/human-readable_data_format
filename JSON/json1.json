@@ -1,0 +1,9 @@
+{"peoples":
+  [
+    {"id":1, "firstname": "Uayhai", "lastname": "Chotjaratwan", "gender": "Male"},
+    {"id":2, "firstname": "Somchai", "address": [{"province": "bangkok", "country": "thailand"},
+                                                 {"province":  "chiangmai", "country": "thailand"}]},
+    {"id":3, "firstname": "Somsri", "hobby": ["running", "reading", "writing"]},
+    {"id":4, "firstname": "Pukping", "hasCar":true, "isMarriage":null}
+  ]
+}

@@ -1,0 +1,24 @@
+<Peoples>
+	<People>
+        <FirstName lang="en">Uaychai</FirstName>
+        <LastName lang="en">Chotjaratwanich</LastName>
+        <FirstName lang="th">อวยชัย</FirstName>
+        <LastName lang="th">โชติจรัสวาณิช</LastName>
+    </People>
+    <People>
+	    <FirstName lang="en">Somchai</FirstName>
+        <LastName lang="en">Jaiharn</LastName>
+        <FirstName lang="th">สมชาย</FirstName>
+        <LastName lang="th">ใจหาญ</LastName>
+        <Addresses>
+            <Address>
+                <Province>Bangkok</Province>
+                <Country>Thailand</Country>
+            </Address>
+            <Address>
+                <Province>Chiangmai</Province>
+                <Country>Thailand</Country>
+            </Address>
+        </Addresses>
+    </People>
+</Peoples>

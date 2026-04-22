@@ -1,0 +1,33 @@
+[[People]]
+Firstname = "Uaychai"
+Lastname = "Chotjaratwanich"
+
+[People.Address]
+Pronvince = "Bangkok"
+Country = "Thailand"
+
+[[People.Hobby]]
+Name = "Running"
+
+[[People.Hobby]]
+Name = "Sleeping"
+
+[[People.Hobby]]
+Name = "Walking"
+
+[[People]]
+Firstname = "Somchai"
+Lastname = "Jaiharn"
+Birthday = 2000-06-24
+Salary = 50000
+
+
+[People.Address]
+Pronvince = "Chiangmai"
+Country = "Thailand"
+
+[[People.Hobby]]
+Name = "Running"
+
+[[People.Hobby]]
+Name = "Sleeping"
